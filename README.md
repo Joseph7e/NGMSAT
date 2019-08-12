@@ -3,8 +3,7 @@
 
 
 Program to identify primers and repeat counts from Illumina FASTQs - targeting microsatellite loci
-![NGMSAT workflow](https://github.com/Joseph7e/NGMSAT/static/NGMAT.png)
-![Alt text](static/NGMAT.png?raw=true "Title")
+![NGMSAT Workflow](static/NGMAT.png?raw=true "NGMSAT workflow")
 
 Next Steps: complex repeat support
 
